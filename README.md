@@ -1,6 +1,7 @@
 # The Github Flow
 
 Github flow is a so-called "branching strategy", and it provides a way of standardizing the workflow in a development team that uses Github as their primary version control platform. The key advantage of Github Flow, compared to other branching strategies, is its simplicity and ease of use. 
+
 The Github Flow model consists of the following steps:
 
 ### 1. Create a branch:
